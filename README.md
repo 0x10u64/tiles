@@ -1,6 +1,6 @@
 # Tiles
 
-A tiny website where everyone is able of changing a tile on a 8x8 map with an image from their gallery.
+A tiny website where everyone is able of changing a tile on a 16x16 map with an image from their gallery.
 
 ![Preview](public/img/og_image.png)
 
